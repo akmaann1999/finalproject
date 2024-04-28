@@ -1,3 +1,4 @@
+#Анна Акмаева, 15-я когорта, финальный проект инженер по тестированию плюс
 import my_requests
 import configuration
 

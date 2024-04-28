@@ -1,7 +1,6 @@
 # Импортируем необходимые библиотеки и модули
 import requests
 import configuration
-import orders
 
 def post_new_order(body):
     return requests.post(configuration.URL_SERVICE + configuration.CREATE_ORDERS_PATH,
